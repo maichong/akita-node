@@ -1,0 +1,20 @@
+{
+  "name": "akita-node",
+  "version": "0.1.0",
+  "description": "Akita client for node.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maichong/akita-node.git"
+  },
+  "author": "Liang <liang@maichong.it> (https://github.com/liangxingchen)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maichong/akita-node/issues"
+  },
+  "homepage": "https://github.com/maichong/akita-node#readme",
+  "dependencies": {
+    "akita": "^0.1.0",
+    "node-fetch": "^1.6.3"
+  }
+}
