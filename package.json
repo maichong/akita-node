@@ -1,6 +1,6 @@
 {
   "name": "akita-node",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Akita client for node.js",
   "main": "index.js",
   "repository": {
@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/maichong/akita-node#readme",
   "dependencies": {
-    "akita": "^0.3.1",
+    "akita": "^0.3.2",
     "form-data": "^2.1.2",
     "node-fetch": "^1.6.3"
   }
